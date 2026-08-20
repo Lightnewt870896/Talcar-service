@@ -1,0 +1,31 @@
+{
+    "001": {
+        "num_orc": "001",
+        "data_ent": "20/08/2026",
+        "cliente": "Felipe doria medeiros",
+        "telefone": "21989922966",
+        "marca": "VW",
+        "veiculo": "Golf MK3 Chanpanhe",
+        "placa": "LBQ-4559",
+        "km": "160000",
+        "mao_obra": 5000.0,
+        "lista_items": [
+            {
+                "Descrição": "Homocinetica",
+                "Qtd": "1",
+                "Valor Total (R$)": "R$ 250.00",
+                "desc": "Homocinetica",
+                "qtd": "1",
+                "val": 250.0
+            },
+            {
+                "Descrição": "retifica motor",
+                "Qtd": "1",
+                "Valor Total (R$)": "R$ 3000.00",
+                "desc": "retifica motor",
+                "qtd": "1",
+                "val": 3000.0
+            }
+        ]
+    }
+}
